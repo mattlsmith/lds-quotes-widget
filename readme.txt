@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: jnewmano, truthislight
-Donate link: http://www.mattlsmith.com/
+Want to contribute? Go here and contact us: http://www.theldsstore.com/
 Tags: sidebar,quotes
 Requires at least: 3.0.1
 Tested up to: 3.4
